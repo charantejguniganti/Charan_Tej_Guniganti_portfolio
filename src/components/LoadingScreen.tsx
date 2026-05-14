@@ -44,7 +44,7 @@ export default function LoadingScreen() {
               transition={{ duration: 2, repeat: Infinity, repeatType: "reverse" }}
               className="absolute inset-0 flex items-center justify-center"
             >
-              <span className="text-2xl font-bold tracking-widest text-white">AG</span>
+              <span className="text-2xl font-bold tracking-widest text-white">CG</span>
             </motion.div>
           </div>
 
