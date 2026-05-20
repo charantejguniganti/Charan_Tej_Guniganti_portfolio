@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "ThriftX Marketplace",
-    desc: "Full-stack marketplace for second-hand products (Funded Startup Project).",
+    desc: "Full-stack Sustainable marketplace for buying and selling pre-owned items(Funded Startup Project).",
     tags: ["MongoDB", "JWT", "Express"],
     color: "from-emerald-500/20 to-teal-500/20",
     colSpan: "md:col-span-2",
