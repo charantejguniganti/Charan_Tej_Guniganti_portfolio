@@ -9,7 +9,7 @@ const educationData = [
     institution: "Polaris School Of Technology",
     period: "2025 - Present",
     degree: "Integrated B.Tech in Computer Science (AI and ML)",
-    score: "SGPA: 7",
+    score: "CGPA: 7",
     icon: GraduationCap,
     color: "text-neon-cyan"
   },
